@@ -6,13 +6,20 @@
 #   (use "git add <file>..." to include in what will be committed)
 #
 #
-# $ use "touch .gitignore foo bar baz bat"
+#      use "touch .gitignore foo bar baz bat"
 #  to include in what will be IGNORED
 #       .gitignore
 #       bar
 #       bat
 #       baz
 #       foo
+#Delete Cached gitignore
+#     $rm --cached .gitignore.
+
+
+# Makes perfect sense. .gitignore ignores untracked files. 
+
+# If the .gitignore file itself is untracked, it can ignore itself too.
 
 
 
