@@ -1,10 +1,9 @@
 # ProjectNotebook
 ## Repo Name:
-#> giNotebook-is-the-best
+#> Notebook-is-the-best
 ## Welcome
 `@Visitor -> Welcome <3`
 
-```neofetch```
 ```
                      ./[o[.
                    ./[sssso[-
@@ -22,9 +21,9 @@
    ./++++++++++++++++++++++++++++++/:.
   `:::::::::::::::::::::::::------``
 ```
-### Hardware
-
-----------
+## Hardware
+```
+### ----------
 #> OS:        EndeavourOS Linux x86_64
 #> Host:      20217 Lenovo IdeaPad Y510P
 #> Kernel:    6.2.6-zen1-1-zen
@@ -40,4 +39,11 @@
 #> GPU:       NVIDIA GeForce GT 755M
 #> GPU:       Intel 4th Gen Core Processor
 #> Memory:    6106MiB / 15722MiB
+----------
 ```
+
+
+
+## Other
+### ----------
+
