@@ -21,7 +21,7 @@
    ./++++++++++++++++++++++++++++++/:.
   `:::::::::::::::::::::::::------``
 ```
-## Hardware
+## OS
 ```
 ### ----------
 #> OS:        EndeavourOS Linux x86_64
@@ -35,6 +35,10 @@
 #> Theme:     Arc-Dark [GTK2/3]
 #> Icons:     Qogir-dark [GTK2/3]
 #> Terminal:  vscode
+```
+### Hardware
+```
+### ----------
 #> CPU:       Intel i7-4700MQ (8) @ 3.400GHz
 #> GPU:       NVIDIA GeForce GT 755M
 #> GPU:       Intel 4th Gen Core Processor
